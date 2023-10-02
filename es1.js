@@ -84,4 +84,4 @@ console.log (name2)
 console.log (name1===name2)
 
 //extra
-console.log (name1 .toLowerCase()==name2.toLowerCase())
+console.log (name1 .toLowerCase()===name2.toLowerCase())
